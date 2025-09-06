@@ -15,6 +15,18 @@ Whether you’ve never coded before or have already taken EECS 281, this repo ai
 
 - Offer practice in both hardware and software problem-solving
 
+## Setup
+
+### Clone the repo
+
+If you do not have git setup follow this [tutorial](https://eecs280staff.github.io/tutorials/setup_git.html) 
+
+Once setup, clone the repo with the following terminal command
+
+```bash
+git clone git@github.com:SparkElectricRacing/spark-intro-project.git
+```
+
 ## Where to start
 
 ### Starter Projects
@@ -30,9 +42,9 @@ Complete the 3 projects in [Fall 25](/starter_proj_f25) in the following order:
 Play the following [game](https://learngitbranching.js.org/) to learn about git!
 
 Try out levels 2-4 of ramping up: 
-2: Branching in Git
-3: Merging in Git
-4: Rebase Introduction
+- 2: Branching in Git
+- 3: Merging in Git
+- 4: Rebase Introduction
 
 ### Putting git into practice
 
