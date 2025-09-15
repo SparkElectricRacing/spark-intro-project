@@ -49,7 +49,7 @@ def test_calculator():
     assert calc.divide(10, 2) == 5
     assert calc.remainder(10, 3) == 1
     calc.memory_store(42)
-    assert calc.divide(calc.memory_recall(), 2) == 7
+    assert calc.divide(calc.memory_recall(), 2) == 21
     assert round(calc.sin(3.14159/2), 5) == 1
     calc.change_angle_mode('deg')
     assert round(calc.sin(90), 5) == 1
